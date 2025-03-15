@@ -37,11 +37,11 @@
 ## **📸 Screenshots**
 
 | Splash Screen | Home Screen | Student Form |
-|--------------|------------|---------------|
+|--------------|------------|-------------|
 | ![Splash](lib/images/splash.png) | ![Home](lib/images/home.png) | ![Form](lib/images/form.png) |
 
 | Date Selection | Time Selection | Student List | PDF Export |
-|--------------|--------------|--------------|--------------|
+|--------------|--------------|------------|------------|
 | ![Date Selection](lib/images/date-selection.png) | ![Time Selection](lib/images/time-selection.png) | ![Student List](lib/images/studList.png) | ![PDF](lib/images/pdf.png) |
 
 ---
