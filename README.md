@@ -38,11 +38,15 @@
 
 | Splash Screen | Home Screen | Student Form |
 |--------------|------------|-------------|
-| ![Splash](lib/images/splash.png) | ![Home](lib/images/home.png) | ![Form](lib/images/form.png) |
+| <img src="lib/images/splash.png" width="300"> | <img src="lib/images/home.png" width="300"> | <img src="lib/images/form.png" width="300"> |
 
-| Date Selection | Time Selection | Student List | PDF Export |
-|--------------|--------------|------------|------------|
-| ![Date Selection](lib/images/date-selection.png) | ![Time Selection](lib/images/time-selection.png) | ![Student List](lib/images/studList.png) | ![PDF](lib/images/pdf.png) |
+| Filled Form | Date Selection | Time Selection |
+|--------------|--------------|--------------|
+| <img src="lib/images/filled.png" width="300"> | <img src="lib/images/date-selection.png" width="300"> | <img src="lib/images/time-selection.png" width="300"> |
+
+| Student List | PDF Export |
+|--------------|------------|
+| <img src="lib/images/studList.png" width="300"> | <img src="lib/images/pdf.png" width="300"> |
 
 ---
 
@@ -120,7 +124,7 @@
 ## **📞 Contact**
 
 💡 **Developed by:** [Surya](https://github.com/Surya-2k4)  
-📧 **Email:** [suryanatarajan04@gmail.com.com]  
+📧 **Email:** [suryanatarajan04@gmail.com]  
 🌐 **GitHub:** [Student-Lab-Manager](https://github.com/Surya-2k4/Student-Lab-Manager)  
 
 🚀 **Feel free to contribute, report issues, or suggest improvements!** 🎉
