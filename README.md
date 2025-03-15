@@ -36,17 +36,18 @@
 
 ## **📸 Screenshots**
 
-| Splash Screen | Home Screen | Student Form |
-|--------------|------------|-------------|
-| <img src="lib/images/splash.png" width="300"> | <img src="lib/images/home.png" width="300"> | <img src="lib/images/form.png" width="300"> |
+| Splash Screen | Home Screen |  
+|--------------|------------|  
+| <img src="lib/images/splash.png" width="400"> | <img src="lib/images/home.png" width="400"> |  
 
-| Filled Form | Date Selection | Time Selection |
-|--------------|--------------|--------------|
-| <img src="lib/images/filled.png" width="300"> | <img src="lib/images/date-selection.png" width="300"> | <img src="lib/images/time-selection.png" width="300"> |
+| Filled Form | Date Selection | Time Selection |  
+|--------------|--------------|--------------|  
+| <img src="lib/images/filled.png" width="400"> | <img src="lib/images/date-selection.png" width="400"> | <img src="lib/images/time-selection.png" width="400"> |  
 
-| Student List | PDF Export |
-|--------------|------------|
-| <img src="lib/images/studList.png" width="300"> | <img src="lib/images/pdf.png" width="300"> |
+| Student Form | Student List | PDF Export |  
+|--------------|--------------|------------|  
+| <img src="lib/images/form.png" width="400"> | <img src="lib/images/studList.png" width="400"> | <img src="lib/images/pdf.png" width="400"> |  
+
 
 ---
 
@@ -113,11 +114,11 @@
 
 ## **💡 Future Enhancements**
 
-✅ **User Authentication** – Secure login for students and admins.
-✅ **Admin Dashboard** – Separate module for admin management.
-✅ **Offline Data Storage** – Save entries even without an internet connection.
-✅ **Email Notifications** – Send automated confirmation emails.
-✅ **Dark Mode Support** – Enhance UI experience.
+- ✅ **User Authentication** – Secure login for students and admins.  
+- ✅ **Admin Dashboard** – Separate module for admin management.  
+- ✅ **Offline Data Storage** – Save entries even without an internet connection.  
+- ✅ **Email Notifications** – Send automated confirmation emails.  
+- ✅ **Dark Mode Support** – Enhance UI experience.  
 
 ---
 
